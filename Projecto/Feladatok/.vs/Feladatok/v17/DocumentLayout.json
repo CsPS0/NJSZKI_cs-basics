@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE108-6743-4FC3-8734-76A5920993CE}|Feladatok\\Feladatok.csproj|e:\\2024_09_03-szaknap\\01_asztali_diakoknak\\projecto\\feladatok\\feladatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE108-6743-4FC3-8734-76A5920993CE}|Feladatok\\Feladatok.csproj|solutionrelative:feladatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\Feladatok\\Program.cs",
+              "RelativeDocumentMoniker": "Feladatok\\Program.cs",
+              "ToolTip": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\Feladatok\\Program.cs",
+              "RelativeToolTip": "Feladatok\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:29:37.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
