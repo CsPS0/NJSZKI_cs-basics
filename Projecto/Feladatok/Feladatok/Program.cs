@@ -181,7 +181,6 @@ class Program
         Console.Write("Ajtó területe (cm²): ");
         int ajto = int.Parse(Console.ReadLine());
 
-        // Hibás számítás: az összes fal területe helyett csak egy oldal területét számoljuk
         double falfelulet = (tehossz + teszelesseg) * temagassag;
         double osszesFelulet = falfelulet - ablak - ajto;
 
@@ -200,7 +199,6 @@ class Program
         Console.Write("Kapunál kihagyott terület (m): ");
         int kapu = int.Parse(Console.ReadLine());
 
-        // Hibás számítás: a kerületet nem a kert hosszának és szélességének összegével, hanem a hosszának és szélességének különbségével számolja
         int kerulet = 2 * (tkhossz - tkszelesseg) - kapu;
         double lecHossz = kerulet / 0.2;
         Console.WriteLine("Szükséges lécek száma: " + Math.Ceiling(lecHossz));
