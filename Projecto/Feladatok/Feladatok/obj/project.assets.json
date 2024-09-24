@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\Feladatok\\Feladatok.csproj",
+      "projectUniqueName": "E:\\REPOS\\cs-basics\\01_asztali_diakoknak\\Neuman_Beadando_csbasics\\Projecto\\Feladatok\\Feladatok\\Feladatok.csproj",
       "projectName": "Feladatok",
-      "projectPath": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\Feladatok\\Feladatok.csproj",
+      "projectPath": "E:\\REPOS\\cs-basics\\01_asztali_diakoknak\\Neuman_Beadando_csbasics\\Projecto\\Feladatok\\Feladatok\\Feladatok.csproj",
       "packagesPath": "C:\\Users\\solti_aks20xi\\.nuget\\packages\\",
-      "outputPath": "E:\\2024_09_03-Szaknap\\01_asztali_diakoknak\\Projecto\\Feladatok\\Feladatok\\obj\\",
+      "outputPath": "E:\\REPOS\\cs-basics\\01_asztali_diakoknak\\Neuman_Beadando_csbasics\\Projecto\\Feladatok\\Feladatok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\solti_aks20xi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
